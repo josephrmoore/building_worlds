@@ -36,5 +36,5 @@
 ehthumbs.db
 Thumbs.db
 
-/buildingworlds_week01/Library/*
-/buildingworlds_week01/Temp/*
+/building*/Library/*
+/building*/Temp/*
