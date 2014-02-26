@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: b0fc9b83bb94d47d7a5b0410cd9a4be9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: chrome_chrome_place3dTexture1
+    100002: chrome_chrome_place3dTexture2
+    100004: holder_e
+    100006: hose
+    100008: mixer_e
+    100010: nurbsToPoly1
+    100012: nurbsToPoly2
+    100014: nurbsToPoly3
+    100016: nurbsToPoly4
+    100018: shower
+    100020: //RootNode
+    100022: shower 1
+    100024: wall_e
+    400000: chrome_chrome_place3dTexture1
+    400002: chrome_chrome_place3dTexture2
+    400004: holder_e
+    400006: hose
+    400008: mixer_e
+    400010: nurbsToPoly1
+    400012: nurbsToPoly2
+    400014: nurbsToPoly3
+    400016: nurbsToPoly4
+    400018: shower
+    400020: //RootNode
+    400022: shower 1
+    400024: wall_e
+    2300000: holder_e
+    2300002: hose
+    2300004: mixer_e
+    2300006: nurbsToPoly1
+    2300008: nurbsToPoly2
+    2300010: nurbsToPoly3
+    2300012: nurbsToPoly4
+    2300014: wall_e
+    3300000: holder_e
+    3300002: hose
+    3300004: mixer_e
+    3300006: nurbsToPoly1
+    3300008: nurbsToPoly2
+    3300010: nurbsToPoly3
+    3300012: nurbsToPoly4
+    3300014: wall_e
+    4300000: holder_e
+    4300002: wall_e
+    4300004: nurbsToPoly1
+    4300006: nurbsToPoly2
+    4300008: nurbsToPoly3
+    4300010: nurbsToPoly4
+    4300012: mixer_e
+    4300014: hose
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

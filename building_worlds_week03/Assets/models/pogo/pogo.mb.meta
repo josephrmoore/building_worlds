@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: f51136c0a9f0d4ab68766ef5dc5cfa5e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: antennae
+    100002: canopy
+    100004: chasis
+    100006: chasis 1
+    100008: chasis_rivets
+    100010: directionalLight1
+    100012: emitter1
+    100014: engines
+    100016: l_engine
+    100018: leg
+    100020: leg1
+    100022: leg2
+    100024: leg_tube
+    100026: leg_tube1
+    100028: leg_tube2
+    100030: main_tube
+    100032: missile
+    100034: missile 1
+    100036: missile 2
+    100038: particle1
+    100040: persp1
+    100042: place3dTexture1
+    100044: place3dTexture2
+    100046: pogo
+    100048: //RootNode
+    100050: pointLight1
+    100052: pointLight2
+    100054: pointLight3
+    100056: pointLight4
+    100058: pSphere1
+    100060: r_engine
+    100062: subdivCube19
+    100064: subdivCube20
+    100066: subdivCube21
+    100068: subdivCube22
+    100070: subdivCube23
+    100072: subdivCube24
+    100074: subdivCube25
+    100076: subdivCube26
+    100078: subdivCube27
+    100080: subdivCube28
+    100082: subdivCube29
+    100084: subdivCube30
+    100086: subdivCube31
+    100088: subdivCube32
+    100090: subdivCube33
+    100092: subdivCube34
+    100094: subdivCube35
+    100096: subdivCube36
+    100098: subdivCube37
+    100100: subdivCube38
+    100102: turnTableCamera1
+    100104: turnTableCamera1_aim
+    100106: turnTableCamera1_group
+    100108: turrent_barrel
+    100110: turrent_hub
+    100112: upper_leg
+    100114: upper_leg 1
+    100116: upper_leg 2
+    400000: antennae
+    400002: canopy
+    400004: chasis
+    400006: chasis 1
+    400008: chasis_rivets
+    400010: directionalLight1
+    400012: emitter1
+    400014: engines
+    400016: l_engine
+    400018: leg
+    400020: leg1
+    400022: leg2
+    400024: leg_tube
+    400026: leg_tube1
+    400028: leg_tube2
+    400030: main_tube
+    400032: missile
+    400034: missile 1
+    400036: missile 2
+    400038: particle1
+    400040: persp1
+    400042: place3dTexture1
+    400044: place3dTexture2
+    400046: //RootNode
+    400048: pogo
+    400050: pointLight1
+    400052: pointLight2
+    400054: pointLight3
+    400056: pointLight4
+    400058: pSphere1
+    400060: r_engine
+    400062: subdivCube19
+    400064: subdivCube20
+    400066: subdivCube21
+    400068: subdivCube22
+    400070: subdivCube23
+    400072: subdivCube24
+    400074: subdivCube25
+    400076: subdivCube26
+    400078: subdivCube27
+    400080: subdivCube28
+    400082: subdivCube29
+    400084: subdivCube30
+    400086: subdivCube31
+    400088: subdivCube32
+    400090: subdivCube33
+    400092: subdivCube34
+    400094: subdivCube35
+    400096: subdivCube36
+    400098: subdivCube37
+    400100: subdivCube38
+    400102: turnTableCamera1
+    400104: turnTableCamera1_aim
+    400106: turnTableCamera1_group
+    400108: turrent_barrel
+    400110: turrent_hub
+    400112: upper_leg
+    400114: upper_leg 1
+    400116: upper_leg 2
+    2300000: antennae
+    2300002: chasis 1
+    2300004: l_engine
+    2300006: leg_tube
+    2300008: leg_tube1
+    2300010: leg_tube2
+    2300012: main_tube
+    2300014: missile
+    2300016: missile 1
+    2300018: missile 2
+    2300020: pSphere1
+    2300022: r_engine
+    2300024: subdivCube19
+    2300026: subdivCube20
+    2300028: subdivCube21
+    2300030: subdivCube22
+    2300032: subdivCube23
+    2300034: subdivCube24
+    2300036: subdivCube25
+    2300038: subdivCube26
+    2300040: subdivCube27
+    2300042: subdivCube28
+    2300044: subdivCube29
+    2300046: subdivCube30
+    2300048: subdivCube31
+    2300050: subdivCube32
+    2300052: subdivCube33
+    2300054: subdivCube34
+    2300056: subdivCube35
+    2300058: subdivCube36
+    2300060: subdivCube37
+    2300062: subdivCube38
+    2300064: turrent_barrel
+    2300066: turrent_hub
+    2300068: upper_leg
+    2300070: upper_leg 1
+    2300072: upper_leg 2
+    3300000: antennae
+    3300002: chasis 1
+    3300004: l_engine
+    3300006: leg_tube
+    3300008: leg_tube1
+    3300010: leg_tube2
+    3300012: main_tube
+    3300014: missile
+    3300016: missile 1
+    3300018: missile 2
+    3300020: pSphere1
+    3300022: r_engine
+    3300024: subdivCube19
+    3300026: subdivCube20
+    3300028: subdivCube21
+    3300030: subdivCube22
+    3300032: subdivCube23
+    3300034: subdivCube24
+    3300036: subdivCube25
+    3300038: subdivCube26
+    3300040: subdivCube27
+    3300042: subdivCube28
+    3300044: subdivCube29
+    3300046: subdivCube30
+    3300048: subdivCube31
+    3300050: subdivCube32
+    3300052: subdivCube33
+    3300054: subdivCube34
+    3300056: subdivCube35
+    3300058: subdivCube36
+    3300060: subdivCube37
+    3300062: subdivCube38
+    3300064: turrent_barrel
+    3300066: turrent_hub
+    3300068: upper_leg
+    3300070: upper_leg 1
+    3300072: upper_leg 2
+    4300000: subdivCube19
+    4300002: subdivCube20
+    4300004: subdivCube21
+    4300006: subdivCube22
+    4300008: subdivCube23
+    4300010: subdivCube24
+    4300012: subdivCube25
+    4300014: subdivCube26
+    4300016: subdivCube27
+    4300018: subdivCube28
+    4300020: subdivCube29
+    4300022: subdivCube30
+    4300024: subdivCube31
+    4300026: subdivCube32
+    4300028: subdivCube33
+    4300030: subdivCube34
+    4300032: subdivCube35
+    4300034: subdivCube36
+    4300036: subdivCube37
+    4300038: subdivCube38
+    4300040: chasis
+    4300042: main_tube
+    4300044: leg_tube
+    4300046: leg_tube1
+    4300048: leg_tube2
+    4300050: antennae
+    4300052: pSphere1
+    4300054: upper_leg
+    4300056: missile
+    4300058: upper_leg
+    4300060: missile
+    4300062: upper_leg
+    4300064: missile
+    4300066: turrent_hub
+    4300068: turrent_barrel
+    4300070: l_engine
+    4300072: r_engine
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

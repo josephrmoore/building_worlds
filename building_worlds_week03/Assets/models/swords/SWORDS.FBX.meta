@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: b4c07d92a6a5944668f736eb28e0c490
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: elemental_bow_m00_wp
+    100002: elven_long_sword_m00_wp
+    100004: elven_sword_m00_wp
+    100006: soul_separator_m00_wp
+    100008: stick_of_eternity_m00_wp
+    100010: stiletto_m00_wp
+    100012: //RootNode
+    400000: elemental_bow_m00_wp
+    400002: elven_long_sword_m00_wp
+    400004: elven_sword_m00_wp
+    400006: soul_separator_m00_wp
+    400008: stick_of_eternity_m00_wp
+    400010: stiletto_m00_wp
+    400012: //RootNode
+    2300000: elemental_bow_m00_wp
+    2300002: elven_long_sword_m00_wp
+    2300004: elven_sword_m00_wp
+    2300006: soul_separator_m00_wp
+    2300008: stick_of_eternity_m00_wp
+    2300010: stiletto_m00_wp
+    3300000: elemental_bow_m00_wp
+    3300002: elven_long_sword_m00_wp
+    3300004: elven_sword_m00_wp
+    3300006: soul_separator_m00_wp
+    3300008: stick_of_eternity_m00_wp
+    3300010: stiletto_m00_wp
+    4300000: elven_long_sword_m00_wp
+    4300002: elemental_bow_m00_wp
+    4300004: soul_separator_m00_wp
+    4300006: stick_of_eternity_m00_wp
+    4300008: stiletto_m00_wp
+    4300010: elven_sword_m00_wp
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: 7cec2fe820f7f4bca832304e912f0a85
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bottom_coil
+    100002: bottom_tray
+    100004: bulb
+    100006: bulb 1
+    100008: c_1_door
+    100010: c_2_door
+    100012: cabinets
+    100014: ceiling
+    100016: cooling_fan
+    100018: counter
+    100020: deadbolt
+    100022: deadbolt_lock
+    100024: dial1
+    100026: dial2
+    100028: dial3
+    100030: dial4
+    100032: dial5
+    100034: dial6
+    100036: dial7
+    100038: dial8
+    100040: dials
+    100042: dishwasher
+    100044: door
+    100046: door 1
+    100048: door 2
+    100050: fan
+    100052: fan_light
+    100054: fan_switch
+    100056: floor
+    100058: freezer_door
+    100060: freezer_misc
+    100062: fridge
+    100064: fridge_bulb
+    100066: fridge_door
+    100068: fridge_light
+    100070: fridge_misc
+    100072: guard1
+    100074: guard2
+    100076: guard3
+    100078: handle
+    100080: hook1
+    100082: hook2
+    100084: //RootNode
+    100086: kitchen
+    100088: knob
+    100090: knob_inner
+    100092: knob_lock
+    100094: knob_outer
+    100096: knob_plate
+    100098: l_1_door
+    100100: l_2_door
+    100102: l_3_door
+    100104: l_4_door
+    100106: l_tray
+    100108: lamp_bulb
+    100110: lamp_cable
+    100112: lamp_director
+    100114: lid_lower
+    100116: lid_lower1
+    100118: light_switch
+    100120: lock_base
+    100122: lock_handle
+    100124: lower_cabinets
+    100126: main_unit
+    100128: middle_tray
+    100130: misc
+    100132: misc_plank
+    100134: misc_unit
+    100136: oven
+    100138: oven 1
+    100140: oven_elements
+    100142: pCube104
+    100144: pCube105
+    100146: pCube106
+    100148: pCube107
+    100150: pCube12
+    100152: pCube13
+    100154: pCube14
+    100156: pCube14 1
+    100158: pCube14 10
+    100160: pCube14 11
+    100162: pCube14 12
+    100164: pCube14 13
+    100166: pCube14 14
+    100168: pCube14 15
+    100170: pCube14 2
+    100172: pCube14 3
+    100174: pCube14 4
+    100176: pCube14 5
+    100178: pCube14 6
+    100180: pCube14 7
+    100182: pCube14 8
+    100184: pCube14 9
+    100186: pCube26
+    100188: pCube27
+    100190: pCube28
+    100192: pCube29
+    100194: pCube30
+    100196: pCube31
+    100198: pCube32
+    100200: pCube33
+    100202: pCube34
+    100204: pCube35
+    100206: pCube36
+    100208: pCube37
+    100210: pCube38
+    100212: pCube39
+    100214: pCube40
+    100216: pCube41
+    100218: pCube42
+    100220: pCube43
+    100222: pCube44
+    100224: pCube45
+    100226: pCube46
+    100228: pCube47
+    100230: pCube48
+    100232: pCube49
+    100234: pCube50
+    100236: pCube51
+    100238: pCube52
+    100240: pCube53
+    100242: pCube54
+    100244: pCube55
+    100246: pCube56
+    100248: pCube57
+    100250: pCube58
+    100252: pCube59
+    100254: pCube60
+    100256: pCube61
+    100258: pCube62
+    100260: pCube63
+    100262: pCube64
+    100264: pCube65
+    100266: pCube66
+    100268: pCube67
+    100270: pCube68
+    100272: pCube69
+    100274: pCube70
+    100276: pCube71
+    100278: pCube72
+    100280: pCube73
+    100282: pCube74
+    100284: pCube75
+    100286: pCube76
+    100288: pCube77
+    100290: pCube78
+    100292: pCube79
+    100294: pCube80
+    100296: pCube81
+    100298: pCube82
+    100300: pCube83
+    100302: pCube84
+    100304: pCube85
+    100306: pCube86
+    100308: pCube87
+    100310: pCube88
+    100312: pCube89
+    100314: pCube90
+    100316: pCube91
+    100318: pCube92
+    100320: pCube93
+    100322: pCube94
+    100324: pCube95
+    100326: pCube96
+    100328: pCube97
+    100330: pCube98
+    100332: pCube99
+    100334: pCylinder15
+    100336: pCylinder16
+    100338: pCylinder17
+    100340: pCylinder18
+    100342: pCylinder5
+    100344: pCylinder5 1
+    100346: pCylinder5 10
+    100348: pCylinder5 11
+    100350: pCylinder5 12
+    100352: pCylinder5 13
+    100354: pCylinder5 14
+    100356: pCylinder5 15
+    100358: pCylinder5 2
+    100360: pCylinder5 3
+    100362: pCylinder5 4
+    100364: pCylinder5 5
+    100366: pCylinder5 6
+    100368: pCylinder5 7
+    100370: pCylinder5 8
+    100372: pCylinder5 9
+    100374: pCylinder6
+    100376: pCylinder6 1
+    100378: pCylinder6 10
+    100380: pCylinder6 11
+    100382: pCylinder6 12
+    100384: pCylinder6 13
+    100386: pCylinder6 14
+    100388: pCylinder6 15
+    100390: pCylinder6 2
+    100392: pCylinder6 3
+    100394: pCylinder6 4
+    100396: pCylinder6 5
+    100398: pCylinder6 6
+    100400: pCylinder6 7
+    100402: pCylinder6 8
+    100404: pCylinder6 9
+    100406: pin1
+    100408: pin1_inner
+    100410: pin1_outer
+    100412: pin2
+    100414: pin2_inner
+    100416: pin2_outer
+    100418: pin3
+    100420: pin3_inner
+    100422: pin3_outer
+    100424: pins
+    100426: r_tray
+    100428: rack_lower
+    100430: rack_upper
+    100432: refrigerator
+    100434: register
+    100436: regulator
+    100438: set
+    100440: shelve3
+    100442: shelve4
+    100444: shelve5
+    100446: sink
+    100448: stove
+    100450: stove_elements
+    100452: stove_oven
+    100454: top_coil
+    100456: u_1_door
+    100458: u_2_door
+    100460: u_3_door
+    100462: u_4_door
+    100464: u_5_door
+    100466: u_6_door
+    100468: upper_cabinets
+    100470: upper_tray
+    100472: volumeLight1
+    100474: w_1_door
+    100476: w_2_door
+    100478: w_3_door
+    100480: w_4_door
+    100482: w_5_door
+    100484: w_6_door
+    100486: wall
+    100488: wall_cabinets
+    100490: wall_counter
+    400000: bottom_coil
+    400002: bottom_tray
+    400004: bulb
+    400006: bulb 1
+    400008: c_1_door
+    400010: c_2_door
+    400012: cabinets
+    400014: ceiling
+    400016: cooling_fan
+    400018: counter
+    400020: deadbolt
+    400022: deadbolt_lock
+    400024: dial1
+    400026: dial2
+    400028: dial3
+    400030: dial4
+    400032: dial5
+    400034: dial6
+    400036: dial7
+    400038: dial8
+    400040: dials
+    400042: dishwasher
+    400044: door
+    400046: door 1
+    400048: door 2
+    400050: fan
+    400052: fan_light
+    400054: fan_switch
+    400056: floor
+    400058: freezer_door
+    400060: freezer_misc
+    400062: fridge
+    400064: fridge_bulb
+    400066: fridge_door
+    400068: fridge_light
+    400070: fridge_misc
+    400072: guard1
+    400074: guard2
+    400076: guard3
+    400078: handle
+    400080: hook1
+    400082: hook2
+    400084: //RootNode
+    400086: kitchen
+    400088: knob
+    400090: knob_inner
+    400092: knob_lock
+    400094: knob_outer
+    400096: knob_plate
+    400098: l_1_door
+    400100: l_2_door
+    400102: l_3_door
+    400104: l_4_door
+    400106: l_tray
+    400108: lamp_bulb
+    400110: lamp_cable
+    400112: lamp_director
+    400114: lid_lower
+    400116: lid_lower1
+    400118: light_switch
+    400120: lock_base
+    400122: lock_handle
+    400124: lower_cabinets
+    400126: main_unit
+    400128: middle_tray
+    400130: misc
+    400132: misc_plank
+    400134: misc_unit
+    400136: oven
+    400138: oven 1
+    400140: oven_elements
+    400142: pCube104
+    400144: pCube105
+    400146: pCube106
+    400148: pCube107
+    400150: pCube12
+    400152: pCube13
+    400154: pCube14
+    400156: pCube14 1
+    400158: pCube14 10
+    400160: pCube14 11
+    400162: pCube14 12
+    400164: pCube14 13
+    400166: pCube14 14
+    400168: pCube14 15
+    400170: pCube14 2
+    400172: pCube14 3
+    400174: pCube14 4
+    400176: pCube14 5
+    400178: pCube14 6
+    400180: pCube14 7
+    400182: pCube14 8
+    400184: pCube14 9
+    400186: pCube26
+    400188: pCube27
+    400190: pCube28
+    400192: pCube29
+    400194: pCube30
+    400196: pCube31
+    400198: pCube32
+    400200: pCube33
+    400202: pCube34
+    400204: pCube35
+    400206: pCube36
+    400208: pCube37
+    400210: pCube38
+    400212: pCube39
+    400214: pCube40
+    400216: pCube41
+    400218: pCube42
+    400220: pCube43
+    400222: pCube44
+    400224: pCube45
+    400226: pCube46
+    400228: pCube47
+    400230: pCube48
+    400232: pCube49
+    400234: pCube50
+    400236: pCube51
+    400238: pCube52
+    400240: pCube53
+    400242: pCube54
+    400244: pCube55
+    400246: pCube56
+    400248: pCube57
+    400250: pCube58
+    400252: pCube59
+    400254: pCube60
+    400256: pCube61
+    400258: pCube62
+    400260: pCube63
+    400262: pCube64
+    400264: pCube65
+    400266: pCube66
+    400268: pCube67
+    400270: pCube68
+    400272: pCube69
+    400274: pCube70
+    400276: pCube71
+    400278: pCube72
+    400280: pCube73
+    400282: pCube74
+    400284: pCube75
+    400286: pCube76
+    400288: pCube77
+    400290: pCube78
+    400292: pCube79
+    400294: pCube80
+    400296: pCube81
+    400298: pCube82
+    400300: pCube83
+    400302: pCube84
+    400304: pCube85
+    400306: pCube86
+    400308: pCube87
+    400310: pCube88
+    400312: pCube89
+    400314: pCube90
+    400316: pCube91
+    400318: pCube92
+    400320: pCube93
+    400322: pCube94
+    400324: pCube95
+    400326: pCube96
+    400328: pCube97
+    400330: pCube98
+    400332: pCube99
+    400334: pCylinder15
+    400336: pCylinder16
+    400338: pCylinder17
+    400340: pCylinder18
+    400342: pCylinder5
+    400344: pCylinder5 1
+    400346: pCylinder5 10
+    400348: pCylinder5 11
+    400350: pCylinder5 12
+    400352: pCylinder5 13
+    400354: pCylinder5 14
+    400356: pCylinder5 15
+    400358: pCylinder5 2
+    400360: pCylinder5 3
+    400362: pCylinder5 4
+    400364: pCylinder5 5
+    400366: pCylinder5 6
+    400368: pCylinder5 7
+    400370: pCylinder5 8
+    400372: pCylinder5 9
+    400374: pCylinder6
+    400376: pCylinder6 1
+    400378: pCylinder6 10
+    400380: pCylinder6 11
+    400382: pCylinder6 12
+    400384: pCylinder6 13
+    400386: pCylinder6 14
+    400388: pCylinder6 15
+    400390: pCylinder6 2
+    400392: pCylinder6 3
+    400394: pCylinder6 4
+    400396: pCylinder6 5
+    400398: pCylinder6 6
+    400400: pCylinder6 7
+    400402: pCylinder6 8
+    400404: pCylinder6 9
+    400406: pin1
+    400408: pin1_inner
+    400410: pin1_outer
+    400412: pin2
+    400414: pin2_inner
+    400416: pin2_outer
+    400418: pin3
+    400420: pin3_inner
+    400422: pin3_outer
+    400424: pins
+    400426: r_tray
+    400428: rack_lower
+    400430: rack_upper
+    400432: refrigerator
+    400434: register
+    400436: regulator
+    400438: set
+    400440: shelve3
+    400442: shelve4
+    400444: shelve5
+    400446: sink
+    400448: stove
+    400450: stove_elements
+    400452: stove_oven
+    400454: top_coil
+    400456: u_1_door
+    400458: u_2_door
+    400460: u_3_door
+    400462: u_4_door
+    400464: u_5_door
+    400466: u_6_door
+    400468: upper_cabinets
+    400470: upper_tray
+    400472: volumeLight1
+    400474: w_1_door
+    400476: w_2_door
+    400478: w_3_door
+    400480: w_4_door
+    400482: w_5_door
+    400484: w_6_door
+    400486: wall
+    400488: wall_cabinets
+    400490: wall_counter
+    2300000: bottom_coil
+    2300002: bottom_tray
+    2300004: bulb
+    2300006: bulb 1
+    2300008: cabinets
+    2300010: ceiling
+    2300012: cooling_fan
+    2300014: counter
+    2300016: deadbolt_lock
+    2300018: dial1
+    2300020: dial2
+    2300022: dial3
+    2300024: dial4
+    2300026: dial5
+    2300028: dial6
+    2300030: dial7
+    2300032: dial8
+    2300034: door
+    2300036: door 1
+    2300038: door 2
+    2300040: fan_switch
+    2300042: floor
+    2300044: freezer_door
+    2300046: fridge
+    2300048: fridge_bulb
+    2300050: fridge_door
+    2300052: guard1
+    2300054: guard2
+    2300056: guard3
+    2300058: handle
+    2300060: hook1
+    2300062: hook2
+    2300064: knob_lock
+    2300066: knob_plate
+    2300068: l_tray
+    2300070: lamp_bulb
+    2300072: lamp_cable
+    2300074: lid_lower
+    2300076: lid_lower1
+    2300078: light_switch
+    2300080: lock_handle
+    2300082: main_unit
+    2300084: middle_tray
+    2300086: misc_plank
+    2300088: misc_unit
+    2300090: pCube104
+    2300092: pCube105
+    2300094: pCube106
+    2300096: pCube107
+    2300098: pCube12
+    2300100: pCube13
+    2300102: pCube14
+    2300104: pCube14 1
+    2300106: pCube14 10
+    2300108: pCube14 11
+    2300110: pCube14 12
+    2300112: pCube14 13
+    2300114: pCube14 14
+    2300116: pCube14 15
+    2300118: pCube14 2
+    2300120: pCube14 3
+    2300122: pCube14 4
+    2300124: pCube14 5
+    2300126: pCube14 6
+    2300128: pCube14 7
+    2300130: pCube14 8
+    2300132: pCube14 9
+    2300134: pCube26
+    2300136: pCube27
+    2300138: pCube28
+    2300140: pCube29
+    2300142: pCube30
+    2300144: pCube31
+    2300146: pCube32
+    2300148: pCube33
+    2300150: pCube34
+    2300152: pCube35
+    2300154: pCube36
+    2300156: pCube37
+    2300158: pCube38
+    2300160: pCube39
+    2300162: pCube40
+    2300164: pCube41
+    2300166: pCube42
+    2300168: pCube43
+    2300170: pCube44
+    2300172: pCube45
+    2300174: pCube46
+    2300176: pCube47
+    2300178: pCube48
+    2300180: pCube49
+    2300182: pCube50
+    2300184: pCube51
+    2300186: pCube52
+    2300188: pCube53
+    2300190: pCube54
+    2300192: pCube55
+    2300194: pCube56
+    2300196: pCube57
+    2300198: pCube58
+    2300200: pCube59
+    2300202: pCube60
+    2300204: pCube61
+    2300206: pCube62
+    2300208: pCube63
+    2300210: pCube64
+    2300212: pCube65
+    2300214: pCube66
+    2300216: pCube67
+    2300218: pCube68
+    2300220: pCube69
+    2300222: pCube70
+    2300224: pCube71
+    2300226: pCube72
+    2300228: pCube73
+    2300230: pCube74
+    2300232: pCube75
+    2300234: pCube76
+    2300236: pCube77
+    2300238: pCube78
+    2300240: pCube79
+    2300242: pCube80
+    2300244: pCube81
+    2300246: pCube82
+    2300248: pCube83
+    2300250: pCube84
+    2300252: pCube85
+    2300254: pCube86
+    2300256: pCube87
+    2300258: pCube88
+    2300260: pCube89
+    2300262: pCube90
+    2300264: pCube91
+    2300266: pCube92
+    2300268: pCube93
+    2300270: pCube94
+    2300272: pCube95
+    2300274: pCube96
+    2300276: pCube97
+    2300278: pCube98
+    2300280: pCube99
+    2300282: pCylinder15
+    2300284: pCylinder16
+    2300286: pCylinder17
+    2300288: pCylinder18
+    2300290: pCylinder5
+    2300292: pCylinder5 1
+    2300294: pCylinder5 10
+    2300296: pCylinder5 11
+    2300298: pCylinder5 12
+    2300300: pCylinder5 13
+    2300302: pCylinder5 14
+    2300304: pCylinder5 15
+    2300306: pCylinder5 2
+    2300308: pCylinder5 3
+    2300310: pCylinder5 4
+    2300312: pCylinder5 5
+    2300314: pCylinder5 6
+    2300316: pCylinder5 7
+    2300318: pCylinder5 8
+    2300320: pCylinder5 9
+    2300322: pCylinder6
+    2300324: pCylinder6 1
+    2300326: pCylinder6 10
+    2300328: pCylinder6 11
+    2300330: pCylinder6 12
+    2300332: pCylinder6 13
+    2300334: pCylinder6 14
+    2300336: pCylinder6 15
+    2300338: pCylinder6 2
+    2300340: pCylinder6 3
+    2300342: pCylinder6 4
+    2300344: pCylinder6 5
+    2300346: pCylinder6 6
+    2300348: pCylinder6 7
+    2300350: pCylinder6 8
+    2300352: pCylinder6 9
+    2300354: pin1
+    2300356: pin1_inner
+    2300358: pin1_outer
+    2300360: pin2
+    2300362: pin2_inner
+    2300364: pin2_outer
+    2300366: pin3
+    2300368: pin3_inner
+    2300370: pin3_outer
+    2300372: r_tray
+    2300374: rack_lower
+    2300376: rack_upper
+    2300378: register
+    2300380: regulator
+    2300382: set
+    2300384: shelve3
+    2300386: shelve4
+    2300388: shelve5
+    2300390: stove_oven
+    2300392: top_coil
+    2300394: upper_tray
+    2300396: wall
+    3300000: bottom_coil
+    3300002: bottom_tray
+    3300004: bulb
+    3300006: bulb 1
+    3300008: cabinets
+    3300010: ceiling
+    3300012: cooling_fan
+    3300014: counter
+    3300016: deadbolt_lock
+    3300018: dial1
+    3300020: dial2
+    3300022: dial3
+    3300024: dial4
+    3300026: dial5
+    3300028: dial6
+    3300030: dial7
+    3300032: dial8
+    3300034: door
+    3300036: door 1
+    3300038: door 2
+    3300040: fan_switch
+    3300042: floor
+    3300044: freezer_door
+    3300046: fridge
+    3300048: fridge_bulb
+    3300050: fridge_door
+    3300052: guard1
+    3300054: guard2
+    3300056: guard3
+    3300058: handle
+    3300060: hook1
+    3300062: hook2
+    3300064: knob_lock
+    3300066: knob_plate
+    3300068: l_tray
+    3300070: lamp_bulb
+    3300072: lamp_cable
+    3300074: lid_lower
+    3300076: lid_lower1
+    3300078: light_switch
+    3300080: lock_handle
+    3300082: main_unit
+    3300084: middle_tray
+    3300086: misc_plank
+    3300088: misc_unit
+    3300090: pCube104
+    3300092: pCube105
+    3300094: pCube106
+    3300096: pCube107
+    3300098: pCube12
+    3300100: pCube13
+    3300102: pCube14
+    3300104: pCube14 1
+    3300106: pCube14 10
+    3300108: pCube14 11
+    3300110: pCube14 12
+    3300112: pCube14 13
+    3300114: pCube14 14
+    3300116: pCube14 15
+    3300118: pCube14 2
+    3300120: pCube14 3
+    3300122: pCube14 4
+    3300124: pCube14 5
+    3300126: pCube14 6
+    3300128: pCube14 7
+    3300130: pCube14 8
+    3300132: pCube14 9
+    3300134: pCube26
+    3300136: pCube27
+    3300138: pCube28
+    3300140: pCube29
+    3300142: pCube30
+    3300144: pCube31
+    3300146: pCube32
+    3300148: pCube33
+    3300150: pCube34
+    3300152: pCube35
+    3300154: pCube36
+    3300156: pCube37
+    3300158: pCube38
+    3300160: pCube39
+    3300162: pCube40
+    3300164: pCube41
+    3300166: pCube42
+    3300168: pCube43
+    3300170: pCube44
+    3300172: pCube45
+    3300174: pCube46
+    3300176: pCube47
+    3300178: pCube48
+    3300180: pCube49
+    3300182: pCube50
+    3300184: pCube51
+    3300186: pCube52
+    3300188: pCube53
+    3300190: pCube54
+    3300192: pCube55
+    3300194: pCube56
+    3300196: pCube57
+    3300198: pCube58
+    3300200: pCube59
+    3300202: pCube60
+    3300204: pCube61
+    3300206: pCube62
+    3300208: pCube63
+    3300210: pCube64
+    3300212: pCube65
+    3300214: pCube66
+    3300216: pCube67
+    3300218: pCube68
+    3300220: pCube69
+    3300222: pCube70
+    3300224: pCube71
+    3300226: pCube72
+    3300228: pCube73
+    3300230: pCube74
+    3300232: pCube75
+    3300234: pCube76
+    3300236: pCube77
+    3300238: pCube78
+    3300240: pCube79
+    3300242: pCube80
+    3300244: pCube81
+    3300246: pCube82
+    3300248: pCube83
+    3300250: pCube84
+    3300252: pCube85
+    3300254: pCube86
+    3300256: pCube87
+    3300258: pCube88
+    3300260: pCube89
+    3300262: pCube90
+    3300264: pCube91
+    3300266: pCube92
+    3300268: pCube93
+    3300270: pCube94
+    3300272: pCube95
+    3300274: pCube96
+    3300276: pCube97
+    3300278: pCube98
+    3300280: pCube99
+    3300282: pCylinder15
+    3300284: pCylinder16
+    3300286: pCylinder17
+    3300288: pCylinder18
+    3300290: pCylinder5
+    3300292: pCylinder5 1
+    3300294: pCylinder5 10
+    3300296: pCylinder5 11
+    3300298: pCylinder5 12
+    3300300: pCylinder5 13
+    3300302: pCylinder5 14
+    3300304: pCylinder5 15
+    3300306: pCylinder5 2
+    3300308: pCylinder5 3
+    3300310: pCylinder5 4
+    3300312: pCylinder5 5
+    3300314: pCylinder5 6
+    3300316: pCylinder5 7
+    3300318: pCylinder5 8
+    3300320: pCylinder5 9
+    3300322: pCylinder6
+    3300324: pCylinder6 1
+    3300326: pCylinder6 10
+    3300328: pCylinder6 11
+    3300330: pCylinder6 12
+    3300332: pCylinder6 13
+    3300334: pCylinder6 14
+    3300336: pCylinder6 15
+    3300338: pCylinder6 2
+    3300340: pCylinder6 3
+    3300342: pCylinder6 4
+    3300344: pCylinder6 5
+    3300346: pCylinder6 6
+    3300348: pCylinder6 7
+    3300350: pCylinder6 8
+    3300352: pCylinder6 9
+    3300354: pin1
+    3300356: pin1_inner
+    3300358: pin1_outer
+    3300360: pin2
+    3300362: pin2_inner
+    3300364: pin2_outer
+    3300366: pin3
+    3300368: pin3_inner
+    3300370: pin3_outer
+    3300372: r_tray
+    3300374: rack_lower
+    3300376: rack_upper
+    3300378: register
+    3300380: regulator
+    3300382: set
+    3300384: shelve3
+    3300386: shelve4
+    3300388: shelve5
+    3300390: stove_oven
+    3300392: top_coil
+    3300394: upper_tray
+    3300396: wall
+    4300000: set
+    4300002: pCylinder6
+    4300004: pCylinder5
+    4300006: pCube14
+    4300008: pCube42
+    4300010: pCube43
+    4300012: pCylinder6
+    4300014: pCylinder5
+    4300016: pCube14
+    4300018: pCube38
+    4300020: pCube39
+    4300022: pCylinder6
+    4300024: pCylinder5
+    4300026: pCube14
+    4300028: pCube34
+    4300030: pCube35
+    4300032: pCylinder6
+    4300034: pCylinder5
+    4300036: pCube14
+    4300038: pCube29
+    4300040: pCube31
+    4300042: misc_plank
+    4300044: shelve3
+    4300046: counter
+    4300048: pCylinder6
+    4300050: pCylinder5
+    4300052: pCube14
+    4300054: pCube68
+    4300056: pCube69
+    4300058: pCylinder6
+    4300060: pCylinder5
+    4300062: pCube14
+    4300064: pCube70
+    4300066: pCube71
+    4300068: shelve5
+    4300070: cabinets
+    4300072: shelve4
+    4300074: pCylinder6
+    4300076: pCylinder5
+    4300078: pCube14
+    4300080: pCube64
+    4300082: pCube65
+    4300084: pCylinder6
+    4300086: pCylinder5
+    4300088: pCube14
+    4300090: pCube58
+    4300092: pCube59
+    4300094: pCylinder15
+    4300096: pCylinder16
+    4300098: pCube26
+    4300100: pCube56
+    4300102: pCube57
+    4300104: pCylinder17
+    4300106: pCylinder18
+    4300108: pCube27
+    4300110: pCube60
+    4300112: pCube61
+    4300114: pCylinder6
+    4300116: pCylinder5
+    4300118: pCube14
+    4300120: pCube62
+    4300122: pCube63
+    4300124: pCylinder6
+    4300126: pCylinder5
+    4300128: pCube14
+    4300130: pCube66
+    4300132: pCube67
+    4300134: fridge_door
+    4300136: lid_lower
+    4300138: guard1
+    4300140: guard2
+    4300142: guard3
+    4300144: lid_lower1
+    4300146: freezer_door
+    4300148: fridge
+    4300150: fridge_bulb
+    4300152: r_tray
+    4300154: l_tray
+    4300156: upper_tray
+    4300158: middle_tray
+    4300160: bottom_tray
+    4300162: misc_unit
+    4300164: regulator
+    4300166: cooling_fan
+    4300168: door
+    4300170: handle
+    4300172: stove_oven
+    4300174: rack_lower
+    4300176: rack_upper
+    4300178: bulb
+    4300180: bottom_coil
+    4300182: top_coil
+    4300184: dial1
+    4300186: dial2
+    4300188: dial3
+    4300190: dial4
+    4300192: dial5
+    4300194: dial6
+    4300196: dial7
+    4300198: dial8
+    4300200: pCube107
+    4300202: pCube106
+    4300204: pCube105
+    4300206: pCube104
+    4300208: register
+    4300210: door
+    4300212: main_unit
+    4300214: pCylinder6
+    4300216: pCylinder5
+    4300218: pCube14
+    4300220: pCube46
+    4300222: pCube47
+    4300224: pCylinder6
+    4300226: pCylinder5
+    4300228: pCube14
+    4300230: pCube50
+    4300232: pCube51
+    4300234: pCylinder6
+    4300236: pCylinder5
+    4300238: pCube14
+    4300240: pCube54
+    4300242: pCube55
+    4300244: pCylinder6
+    4300246: pCylinder5
+    4300248: pCube14
+    4300250: pCube52
+    4300252: pCube53
+    4300254: pCylinder6
+    4300256: pCylinder5
+    4300258: pCube14
+    4300260: pCube40
+    4300262: pCube41
+    4300264: pCylinder6
+    4300266: pCylinder5
+    4300268: pCube14
+    4300270: pCube48
+    4300272: pCube49
+    4300274: pCube12
+    4300276: pCube13
+    4300278: door
+    4300280: pin2
+    4300282: pin2_inner
+    4300284: pin3
+    4300286: pin3_inner
+    4300288: pin1
+    4300290: pin1_inner
+    4300292: deadbolt_lock
+    4300294: lock_handle
+    4300296: knob_lock
+    4300298: pCube28
+    4300300: pCube30
+    4300302: pCube32
+    4300304: pCube33
+    4300306: pCube36
+    4300308: pCube37
+    4300310: pCube44
+    4300312: pCube45
+    4300314: pCube72
+    4300316: pCube73
+    4300318: pCube74
+    4300320: pCube75
+    4300322: pCube76
+    4300324: pCube77
+    4300326: pCube78
+    4300328: pCube79
+    4300330: pCube80
+    4300332: pCube81
+    4300334: pCube82
+    4300336: pCube83
+    4300338: pCube84
+    4300340: pCube85
+    4300342: pCube86
+    4300344: pCube87
+    4300346: pCube88
+    4300348: pCube89
+    4300350: pCube90
+    4300352: pCube91
+    4300354: pCube92
+    4300356: pCube93
+    4300358: pCube94
+    4300360: pCube95
+    4300362: pCube96
+    4300364: pCube97
+    4300366: pCube98
+    4300368: pCube99
+    4300370: knob_plate
+    4300372: pin2_outer
+    4300374: pin3_outer
+    4300376: pin1_outer
+    4300378: floor
+    4300380: ceiling
+    4300382: wall
+    4300384: lamp_cable
+    4300386: hook1
+    4300388: hook2
+    4300390: lamp_bulb
+    4300392: fan_switch
+    4300394: bulb
+    4300396: light_switch
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

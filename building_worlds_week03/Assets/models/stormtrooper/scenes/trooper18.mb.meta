@@ -1,0 +1,1239 @@
+fileFormatVersion: 2
+guid: d87c491669efb445d9e0ce482e24de56
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: backnurbsCube1
+    100002: backnurbsCube1 1
+    100004: backnurbsCube1 10
+    100006: backnurbsCube1 11
+    100008: backnurbsCube1 12
+    100010: backnurbsCube1 13
+    100012: backnurbsCube1 14
+    100014: backnurbsCube1 15
+    100016: backnurbsCube1 16
+    100018: backnurbsCube1 17
+    100020: backnurbsCube1 18
+    100022: backnurbsCube1 19
+    100024: backnurbsCube1 2
+    100026: backnurbsCube1 20
+    100028: backnurbsCube1 21
+    100030: backnurbsCube1 22
+    100032: backnurbsCube1 23
+    100034: backnurbsCube1 24
+    100036: backnurbsCube1 25
+    100038: backnurbsCube1 26
+    100040: backnurbsCube1 27
+    100042: backnurbsCube1 28
+    100044: backnurbsCube1 29
+    100046: backnurbsCube1 3
+    100048: backnurbsCube1 4
+    100050: backnurbsCube1 5
+    100052: backnurbsCube1 6
+    100054: backnurbsCube1 7
+    100056: backnurbsCube1 8
+    100058: backnurbsCube1 9
+    100060: bevelPolygon1
+    100062: bevelPolygon10
+    100064: bevelPolygon11
+    100066: bevelPolygon12
+    100068: bevelPolygon13
+    100070: bevelPolygon14
+    100072: bevelPolygon15
+    100074: bevelPolygon16
+    100076: bevelPolygon17
+    100078: bevelPolygon18
+    100080: bevelPolygon19
+    100082: bevelPolygon20
+    100084: bevelPolygon21
+    100086: bevelPolygon22
+    100088: bevelPolygon23
+    100090: bevelPolygon24
+    100092: bevelPolygon25
+    100094: bevelPolygon26
+    100096: bevelPolygon28
+    100098: bevelPolygon29
+    100100: bevelPolygon3
+    100102: bevelPolygon5
+    100104: bevelPolygon7
+    100106: bevelPolygon8
+    100108: bottomnurbsCube1
+    100110: bottomnurbsCube1 1
+    100112: bottomnurbsCube1 10
+    100114: bottomnurbsCube1 11
+    100116: bottomnurbsCube1 12
+    100118: bottomnurbsCube1 13
+    100120: bottomnurbsCube1 14
+    100122: bottomnurbsCube1 15
+    100124: bottomnurbsCube1 16
+    100126: bottomnurbsCube1 17
+    100128: bottomnurbsCube1 18
+    100130: bottomnurbsCube1 19
+    100132: bottomnurbsCube1 2
+    100134: bottomnurbsCube1 20
+    100136: bottomnurbsCube1 21
+    100138: bottomnurbsCube1 22
+    100140: bottomnurbsCube1 23
+    100142: bottomnurbsCube1 24
+    100144: bottomnurbsCube1 25
+    100146: bottomnurbsCube1 26
+    100148: bottomnurbsCube1 27
+    100150: bottomnurbsCube1 28
+    100152: bottomnurbsCube1 29
+    100154: bottomnurbsCube1 3
+    100156: bottomnurbsCube1 4
+    100158: bottomnurbsCube1 5
+    100160: bottomnurbsCube1 6
+    100162: bottomnurbsCube1 7
+    100164: bottomnurbsCube1 8
+    100166: bottomnurbsCube1 9
+    100168: curve100
+    100170: curve102
+    100172: curve103
+    100174: curve104
+    100176: curve105
+    100178: curve106
+    100180: curve107
+    100182: curve11
+    100184: curve110
+    100186: curve112
+    100188: curve115
+    100190: curve118
+    100192: curve119
+    100194: curve12
+    100196: curve120
+    100198: curve121
+    100200: curve122
+    100202: curve123
+    100204: curve124
+    100206: curve125
+    100208: curve129
+    100210: curve13
+    100212: curve135
+    100214: curve139
+    100216: curve14
+    100218: curve148
+    100220: curve15
+    100222: curve152
+    100224: curve156
+    100226: curve158
+    100228: curve16
+    100230: curve160
+    100232: curve161
+    100234: curve163
+    100236: curve164
+    100238: curve165
+    100240: curve167
+    100242: curve168
+    100244: curve17
+    100246: curve170
+    100248: curve171
+    100250: curve174
+    100252: curve178
+    100254: curve18
+    100256: curve180
+    100258: curve182
+    100260: curve186
+    100262: curve188
+    100264: curve19
+    100266: curve190
+    100268: curve191
+    100270: curve193
+    100272: curve194
+    100274: curve196
+    100276: curve2
+    100278: curve20
+    100280: curve206
+    100282: curve208
+    100284: curve209
+    100286: curve21
+    100288: curve211
+    100290: curve212
+    100292: curve213
+    100294: curve214
+    100296: curve215
+    100298: curve216
+    100300: curve218
+    100302: curve219
+    100304: curve22
+    100306: curve220
+    100308: curve223
+    100310: curve225
+    100312: curve226
+    100314: curve227
+    100316: curve228
+    100318: curve229
+    100320: curve23
+    100322: curve230
+    100324: curve231
+    100326: curve232
+    100328: curve24
+    100330: curve25
+    100332: curve26
+    100334: curve27
+    100336: curve28
+    100338: curve29
+    100340: curve3
+    100342: curve30
+    100344: curve31
+    100346: curve32
+    100348: curve33
+    100350: curve34
+    100352: curve35
+    100354: curve36
+    100356: curve37
+    100358: curve38
+    100360: curve39
+    100362: curve4
+    100364: curve42
+    100366: curve43
+    100368: curve46
+    100370: curve47
+    100372: curve48
+    100374: curve49
+    100376: curve5
+    100378: curve50
+    100380: curve51
+    100382: curve52
+    100384: curve53
+    100386: curve54
+    100388: curve55
+    100390: curve56
+    100392: curve57
+    100394: curve58
+    100396: curve59
+    100398: curve6
+    100400: curve60
+    100402: curve61
+    100404: curve62
+    100406: curve63
+    100408: curve64
+    100410: curve65
+    100412: curve66
+    100414: curve67
+    100416: curve68
+    100418: curve7
+    100420: curve70
+    100422: curve71
+    100424: curve72
+    100426: curve73
+    100428: curve74
+    100430: curve75
+    100432: curve77
+    100434: curve78
+    100436: curve79
+    100438: curve8
+    100440: curve80
+    100442: curve81
+    100444: curve82
+    100446: curve84
+    100448: curve85
+    100450: curve86
+    100452: curve87
+    100454: curve88
+    100456: curve89
+    100458: curve9
+    100460: curve90
+    100462: curve91
+    100464: curve93
+    100466: curve94
+    100468: curve96
+    100470: curve97
+    100472: curve98
+    100474: curve99
+    100476: dpsBirailSurface10
+    100478: dpsBirailSurface101
+    100480: dpsBirailSurface102
+    100482: dpsBirailSurface104
+    100484: dpsBirailSurface105
+    100486: dpsBirailSurface106
+    100488: dpsBirailSurface107
+    100490: dpsBirailSurface108
+    100492: dpsBirailSurface109
+    100494: dpsBirailSurface11
+    100496: dpsBirailSurface110
+    100498: dpsBirailSurface111
+    100500: dpsBirailSurface112
+    100502: dpsBirailSurface113
+    100504: dpsBirailSurface114
+    100506: dpsBirailSurface115
+    100508: dpsBirailSurface116
+    100510: dpsBirailSurface119
+    100512: dpsBirailSurface120
+    100514: dpsBirailSurface121
+    100516: dpsBirailSurface122
+    100518: dpsBirailSurface124
+    100520: dpsBirailSurface126
+    100522: dpsBirailSurface128
+    100524: dpsBirailSurface129
+    100526: dpsBirailSurface131
+    100528: dpsBirailSurface132
+    100530: dpsBirailSurface133
+    100532: dpsBirailSurface134
+    100534: dpsBirailSurface135
+    100536: dpsBirailSurface136
+    100538: dpsBirailSurface137
+    100540: dpsBirailSurface138
+    100542: dpsBirailSurface139
+    100544: dpsBirailSurface14
+    100546: dpsBirailSurface140
+    100548: dpsBirailSurface15
+    100550: dpsBirailSurface16
+    100552: dpsBirailSurface17
+    100554: dpsBirailSurface18
+    100556: dpsBirailSurface19
+    100558: dpsBirailSurface2
+    100560: dpsBirailSurface20
+    100562: dpsBirailSurface21
+    100564: dpsBirailSurface22
+    100566: dpsBirailSurface23
+    100568: dpsBirailSurface27
+    100570: dpsBirailSurface28
+    100572: dpsBirailSurface29
+    100574: dpsBirailSurface30
+    100576: dpsBirailSurface31
+    100578: dpsBirailSurface32
+    100580: dpsBirailSurface33
+    100582: dpsBirailSurface34
+    100584: dpsBirailSurface35
+    100586: dpsBirailSurface36
+    100588: dpsBirailSurface37
+    100590: dpsBirailSurface38
+    100592: dpsBirailSurface41
+    100594: dpsBirailSurface42
+    100596: dpsBirailSurface43
+    100598: dpsBirailSurface44
+    100600: dpsBirailSurface45
+    100602: dpsBirailSurface46
+    100604: dpsBirailSurface47
+    100606: dpsBirailSurface48
+    100608: dpsBirailSurface49
+    100610: dpsBirailSurface50
+    100612: dpsBirailSurface51
+    100614: dpsBirailSurface52
+    100616: dpsBirailSurface6
+    100618: dpsBirailSurface61
+    100620: dpsBirailSurface62
+    100622: dpsBirailSurface64
+    100624: dpsBirailSurface66
+    100626: dpsBirailSurface67
+    100628: dpsBirailSurface68
+    100630: dpsBirailSurface69
+    100632: dpsBirailSurface7
+    100634: dpsBirailSurface79
+    100636: dpsBirailSurface8
+    100638: dpsBirailSurface83
+    100640: dpsBirailSurface84
+    100642: dpsBirailSurface85
+    100644: dpsBirailSurface87
+    100646: dpsBirailSurface88
+    100648: dpsBirailSurface89
+    100650: dpsBirailSurface9
+    100652: dpsBirailSurface90
+    100654: dpsBirailSurface92
+    100656: dpsBirailSurface93
+    100658: dpsBirailSurface94
+    100660: dpsBirailSurface96
+    100662: dpsBirailSurface97
+    100664: dpsBirailSurface98
+    100666: dpsBirailSurface99
+    100668: extrudedSurface8
+    100670: frontnurbsCube1
+    100672: frontnurbsCube1 1
+    100674: frontnurbsCube1 10
+    100676: frontnurbsCube1 11
+    100678: frontnurbsCube1 12
+    100680: frontnurbsCube1 13
+    100682: frontnurbsCube1 14
+    100684: frontnurbsCube1 15
+    100686: frontnurbsCube1 16
+    100688: frontnurbsCube1 17
+    100690: frontnurbsCube1 18
+    100692: frontnurbsCube1 19
+    100694: frontnurbsCube1 2
+    100696: frontnurbsCube1 20
+    100698: frontnurbsCube1 21
+    100700: frontnurbsCube1 22
+    100702: frontnurbsCube1 23
+    100704: frontnurbsCube1 24
+    100706: frontnurbsCube1 25
+    100708: frontnurbsCube1 26
+    100710: frontnurbsCube1 27
+    100712: frontnurbsCube1 28
+    100714: frontnurbsCube1 29
+    100716: frontnurbsCube1 3
+    100718: frontnurbsCube1 4
+    100720: frontnurbsCube1 5
+    100722: frontnurbsCube1 6
+    100724: frontnurbsCube1 7
+    100726: frontnurbsCube1 8
+    100728: frontnurbsCube1 9
+    100730: leftnurbsCube1
+    100732: leftnurbsCube1 1
+    100734: leftnurbsCube1 10
+    100736: leftnurbsCube1 11
+    100738: leftnurbsCube1 12
+    100740: leftnurbsCube1 13
+    100742: leftnurbsCube1 14
+    100744: leftnurbsCube1 15
+    100746: leftnurbsCube1 16
+    100748: leftnurbsCube1 17
+    100750: leftnurbsCube1 18
+    100752: leftnurbsCube1 19
+    100754: leftnurbsCube1 2
+    100756: leftnurbsCube1 20
+    100758: leftnurbsCube1 21
+    100760: leftnurbsCube1 22
+    100762: leftnurbsCube1 23
+    100764: leftnurbsCube1 24
+    100766: leftnurbsCube1 25
+    100768: leftnurbsCube1 26
+    100770: leftnurbsCube1 27
+    100772: leftnurbsCube1 28
+    100774: leftnurbsCube1 29
+    100776: leftnurbsCube1 3
+    100778: leftnurbsCube1 4
+    100780: leftnurbsCube1 5
+    100782: leftnurbsCube1 6
+    100784: leftnurbsCube1 7
+    100786: leftnurbsCube1 8
+    100788: leftnurbsCube1 9
+    100790: loftedSurface10
+    100792: loftedSurface11
+    100794: loftedSurface12
+    100796: loftedSurface13
+    100798: loftedSurface14
+    100800: loftedSurface15
+    100802: loftedSurface16
+    100804: loftedSurface17
+    100806: loftedSurface18
+    100808: loftedSurface19
+    100810: loftedSurface20
+    100812: loftedSurface21
+    100814: loftedSurface22
+    100816: loftedSurface25
+    100818: loftedSurface26
+    100820: loftedSurface27
+    100822: loftedSurface28
+    100824: loftedSurface29
+    100826: loftedSurface30
+    100828: loftedSurface31
+    100830: loftedSurface32
+    100832: loftedSurface33
+    100834: loftedSurface34
+    100836: loftedSurface35
+    100838: loftedSurface36
+    100840: loftedSurface37
+    100842: loftedSurface38
+    100844: loftedSurface39
+    100846: loftedSurface40
+    100848: loftedSurface41
+    100850: loftedSurface42
+    100852: loftedSurface43
+    100854: loftedSurface8
+    100856: loftedSurface9
+    100858: nurbsCircle1
+    100860: nurbsCircle4
+    100862: nurbsCircle5
+    100864: nurbsCube10
+    100866: nurbsCube11
+    100868: nurbsCube12
+    100870: nurbsCube13
+    100872: nurbsCube16
+    100874: nurbsCube17
+    100876: nurbsCube18
+    100878: nurbsCube19
+    100880: nurbsCube2
+    100882: nurbsCube20
+    100884: nurbsCube21
+    100886: nurbsCube22
+    100888: nurbsCube23
+    100890: nurbsCube24
+    100892: nurbsCube25
+    100894: nurbsCube26
+    100896: nurbsCube27
+    100898: nurbsCube28
+    100900: nurbsCube29
+    100902: nurbsCube30
+    100904: nurbsCube31
+    100906: nurbsCube32
+    100908: nurbsCube33
+    100910: nurbsCube34
+    100912: nurbsCube35
+    100914: nurbsCube36
+    100916: nurbsCube37
+    100918: nurbsCube38
+    100920: nurbsCube39
+    100922: nurbsCube40
+    100924: nurbsCube41
+    100926: nurbsCube5
+    100928: nurbsCube7
+    100930: nurbsCube8
+    100932: nurbsSquare1
+    100934: nurbsSquare2
+    100936: revolvedSurface2
+    100938: rightnurbsCube1
+    100940: rightnurbsCube1 1
+    100942: rightnurbsCube1 10
+    100944: rightnurbsCube1 11
+    100946: rightnurbsCube1 12
+    100948: rightnurbsCube1 13
+    100950: rightnurbsCube1 14
+    100952: rightnurbsCube1 15
+    100954: rightnurbsCube1 16
+    100956: rightnurbsCube1 17
+    100958: rightnurbsCube1 18
+    100960: rightnurbsCube1 19
+    100962: rightnurbsCube1 2
+    100964: rightnurbsCube1 20
+    100966: rightnurbsCube1 21
+    100968: rightnurbsCube1 22
+    100970: rightnurbsCube1 23
+    100972: rightnurbsCube1 24
+    100974: rightnurbsCube1 25
+    100976: rightnurbsCube1 26
+    100978: rightnurbsCube1 27
+    100980: rightnurbsCube1 28
+    100982: rightnurbsCube1 29
+    100984: rightnurbsCube1 3
+    100986: rightnurbsCube1 4
+    100988: rightnurbsCube1 5
+    100990: rightnurbsCube1 6
+    100992: rightnurbsCube1 7
+    100994: rightnurbsCube1 8
+    100996: rightnurbsCube1 9
+    100998: rightnurbsCube2
+    101000: rightnurbsCube3
+    101002: rightnurbsCube4
+    101004: rightnurbsCube5
+    101006: side2
+    101008: singleProfileBirailSurface1
+    101010: singleProfileBirailSurface10
+    101012: singleProfileBirailSurface11
+    101014: singleProfileBirailSurface12
+    101016: singleProfileBirailSurface16
+    101018: singleProfileBirailSurface17
+    101020: singleProfileBirailSurface18
+    101022: singleProfileBirailSurface19
+    101024: singleProfileBirailSurface20
+    101026: singleProfileBirailSurface21
+    101028: singleProfileBirailSurface3
+    101030: singleProfileBirailSurface4
+    101032: singleProfileBirailSurface5
+    101034: singleProfileBirailSurface7
+    101036: singleProfileBirailSurface8
+    101038: singleProfileBirailSurface9
+    101040: spotLight2
+    101042: topnurbsCube1
+    101044: topnurbsCube1 1
+    101046: topnurbsCube1 10
+    101048: topnurbsCube1 11
+    101050: topnurbsCube1 12
+    101052: topnurbsCube1 13
+    101054: topnurbsCube1 14
+    101056: topnurbsCube1 15
+    101058: topnurbsCube1 16
+    101060: topnurbsCube1 17
+    101062: topnurbsCube1 18
+    101064: topnurbsCube1 19
+    101066: topnurbsCube1 2
+    101068: topnurbsCube1 20
+    101070: topnurbsCube1 21
+    101072: topnurbsCube1 22
+    101074: topnurbsCube1 23
+    101076: topnurbsCube1 24
+    101078: topnurbsCube1 25
+    101080: topnurbsCube1 26
+    101082: topnurbsCube1 27
+    101084: topnurbsCube1 28
+    101086: topnurbsCube1 29
+    101088: topnurbsCube1 3
+    101090: topnurbsCube1 4
+    101092: topnurbsCube1 5
+    101094: topnurbsCube1 6
+    101096: topnurbsCube1 7
+    101098: topnurbsCube1 8
+    101100: topnurbsCube1 9
+    101102: transform1
+    101104: transform2
+    101106: //RootNode
+    400000: backnurbsCube1
+    400002: backnurbsCube1 1
+    400004: backnurbsCube1 10
+    400006: backnurbsCube1 11
+    400008: backnurbsCube1 12
+    400010: backnurbsCube1 13
+    400012: backnurbsCube1 14
+    400014: backnurbsCube1 15
+    400016: backnurbsCube1 16
+    400018: backnurbsCube1 17
+    400020: backnurbsCube1 18
+    400022: backnurbsCube1 19
+    400024: backnurbsCube1 2
+    400026: backnurbsCube1 20
+    400028: backnurbsCube1 21
+    400030: backnurbsCube1 22
+    400032: backnurbsCube1 23
+    400034: backnurbsCube1 24
+    400036: backnurbsCube1 25
+    400038: backnurbsCube1 26
+    400040: backnurbsCube1 27
+    400042: backnurbsCube1 28
+    400044: backnurbsCube1 29
+    400046: backnurbsCube1 3
+    400048: backnurbsCube1 4
+    400050: backnurbsCube1 5
+    400052: backnurbsCube1 6
+    400054: backnurbsCube1 7
+    400056: backnurbsCube1 8
+    400058: backnurbsCube1 9
+    400060: bevelPolygon1
+    400062: bevelPolygon10
+    400064: bevelPolygon11
+    400066: bevelPolygon12
+    400068: bevelPolygon13
+    400070: bevelPolygon14
+    400072: bevelPolygon15
+    400074: bevelPolygon16
+    400076: bevelPolygon17
+    400078: bevelPolygon18
+    400080: bevelPolygon19
+    400082: bevelPolygon20
+    400084: bevelPolygon21
+    400086: bevelPolygon22
+    400088: bevelPolygon23
+    400090: bevelPolygon24
+    400092: bevelPolygon25
+    400094: bevelPolygon26
+    400096: bevelPolygon28
+    400098: bevelPolygon29
+    400100: bevelPolygon3
+    400102: bevelPolygon5
+    400104: bevelPolygon7
+    400106: bevelPolygon8
+    400108: bottomnurbsCube1
+    400110: bottomnurbsCube1 1
+    400112: bottomnurbsCube1 10
+    400114: bottomnurbsCube1 11
+    400116: bottomnurbsCube1 12
+    400118: bottomnurbsCube1 13
+    400120: bottomnurbsCube1 14
+    400122: bottomnurbsCube1 15
+    400124: bottomnurbsCube1 16
+    400126: bottomnurbsCube1 17
+    400128: bottomnurbsCube1 18
+    400130: bottomnurbsCube1 19
+    400132: bottomnurbsCube1 2
+    400134: bottomnurbsCube1 20
+    400136: bottomnurbsCube1 21
+    400138: bottomnurbsCube1 22
+    400140: bottomnurbsCube1 23
+    400142: bottomnurbsCube1 24
+    400144: bottomnurbsCube1 25
+    400146: bottomnurbsCube1 26
+    400148: bottomnurbsCube1 27
+    400150: bottomnurbsCube1 28
+    400152: bottomnurbsCube1 29
+    400154: bottomnurbsCube1 3
+    400156: bottomnurbsCube1 4
+    400158: bottomnurbsCube1 5
+    400160: bottomnurbsCube1 6
+    400162: bottomnurbsCube1 7
+    400164: bottomnurbsCube1 8
+    400166: bottomnurbsCube1 9
+    400168: curve100
+    400170: curve102
+    400172: curve103
+    400174: curve104
+    400176: curve105
+    400178: curve106
+    400180: curve107
+    400182: curve11
+    400184: curve110
+    400186: curve112
+    400188: curve115
+    400190: curve118
+    400192: curve119
+    400194: curve12
+    400196: curve120
+    400198: curve121
+    400200: curve122
+    400202: curve123
+    400204: curve124
+    400206: curve125
+    400208: curve129
+    400210: curve13
+    400212: curve135
+    400214: curve139
+    400216: curve14
+    400218: curve148
+    400220: curve15
+    400222: curve152
+    400224: curve156
+    400226: curve158
+    400228: curve16
+    400230: curve160
+    400232: curve161
+    400234: curve163
+    400236: curve164
+    400238: curve165
+    400240: curve167
+    400242: curve168
+    400244: curve17
+    400246: curve170
+    400248: curve171
+    400250: curve174
+    400252: curve178
+    400254: curve18
+    400256: curve180
+    400258: curve182
+    400260: curve186
+    400262: curve188
+    400264: curve19
+    400266: curve190
+    400268: curve191
+    400270: curve193
+    400272: curve194
+    400274: curve196
+    400276: curve2
+    400278: curve20
+    400280: curve206
+    400282: curve208
+    400284: curve209
+    400286: curve21
+    400288: curve211
+    400290: curve212
+    400292: curve213
+    400294: curve214
+    400296: curve215
+    400298: curve216
+    400300: curve218
+    400302: curve219
+    400304: curve22
+    400306: curve220
+    400308: curve223
+    400310: curve225
+    400312: curve226
+    400314: curve227
+    400316: curve228
+    400318: curve229
+    400320: curve23
+    400322: curve230
+    400324: curve231
+    400326: curve232
+    400328: curve24
+    400330: curve25
+    400332: curve26
+    400334: curve27
+    400336: curve28
+    400338: curve29
+    400340: curve3
+    400342: curve30
+    400344: curve31
+    400346: curve32
+    400348: curve33
+    400350: curve34
+    400352: curve35
+    400354: curve36
+    400356: curve37
+    400358: curve38
+    400360: curve39
+    400362: curve4
+    400364: curve42
+    400366: curve43
+    400368: curve46
+    400370: curve47
+    400372: curve48
+    400374: curve49
+    400376: curve5
+    400378: curve50
+    400380: curve51
+    400382: curve52
+    400384: curve53
+    400386: curve54
+    400388: curve55
+    400390: curve56
+    400392: curve57
+    400394: curve58
+    400396: curve59
+    400398: curve6
+    400400: curve60
+    400402: curve61
+    400404: curve62
+    400406: curve63
+    400408: curve64
+    400410: curve65
+    400412: curve66
+    400414: curve67
+    400416: curve68
+    400418: curve7
+    400420: curve70
+    400422: curve71
+    400424: curve72
+    400426: curve73
+    400428: curve74
+    400430: curve75
+    400432: curve77
+    400434: curve78
+    400436: curve79
+    400438: curve8
+    400440: curve80
+    400442: curve81
+    400444: curve82
+    400446: curve84
+    400448: curve85
+    400450: curve86
+    400452: curve87
+    400454: curve88
+    400456: curve89
+    400458: curve9
+    400460: curve90
+    400462: curve91
+    400464: curve93
+    400466: curve94
+    400468: curve96
+    400470: curve97
+    400472: curve98
+    400474: curve99
+    400476: dpsBirailSurface10
+    400478: dpsBirailSurface101
+    400480: dpsBirailSurface102
+    400482: dpsBirailSurface104
+    400484: dpsBirailSurface105
+    400486: dpsBirailSurface106
+    400488: dpsBirailSurface107
+    400490: dpsBirailSurface108
+    400492: dpsBirailSurface109
+    400494: dpsBirailSurface11
+    400496: dpsBirailSurface110
+    400498: dpsBirailSurface111
+    400500: dpsBirailSurface112
+    400502: dpsBirailSurface113
+    400504: dpsBirailSurface114
+    400506: dpsBirailSurface115
+    400508: dpsBirailSurface116
+    400510: dpsBirailSurface119
+    400512: dpsBirailSurface120
+    400514: dpsBirailSurface121
+    400516: dpsBirailSurface122
+    400518: dpsBirailSurface124
+    400520: dpsBirailSurface126
+    400522: dpsBirailSurface128
+    400524: dpsBirailSurface129
+    400526: dpsBirailSurface131
+    400528: dpsBirailSurface132
+    400530: dpsBirailSurface133
+    400532: dpsBirailSurface134
+    400534: dpsBirailSurface135
+    400536: dpsBirailSurface136
+    400538: dpsBirailSurface137
+    400540: dpsBirailSurface138
+    400542: dpsBirailSurface139
+    400544: dpsBirailSurface14
+    400546: dpsBirailSurface140
+    400548: dpsBirailSurface15
+    400550: dpsBirailSurface16
+    400552: dpsBirailSurface17
+    400554: dpsBirailSurface18
+    400556: dpsBirailSurface19
+    400558: dpsBirailSurface2
+    400560: dpsBirailSurface20
+    400562: dpsBirailSurface21
+    400564: dpsBirailSurface22
+    400566: dpsBirailSurface23
+    400568: dpsBirailSurface27
+    400570: dpsBirailSurface28
+    400572: dpsBirailSurface29
+    400574: dpsBirailSurface30
+    400576: dpsBirailSurface31
+    400578: dpsBirailSurface32
+    400580: dpsBirailSurface33
+    400582: dpsBirailSurface34
+    400584: dpsBirailSurface35
+    400586: dpsBirailSurface36
+    400588: dpsBirailSurface37
+    400590: dpsBirailSurface38
+    400592: dpsBirailSurface41
+    400594: dpsBirailSurface42
+    400596: dpsBirailSurface43
+    400598: dpsBirailSurface44
+    400600: dpsBirailSurface45
+    400602: dpsBirailSurface46
+    400604: dpsBirailSurface47
+    400606: dpsBirailSurface48
+    400608: dpsBirailSurface49
+    400610: dpsBirailSurface50
+    400612: dpsBirailSurface51
+    400614: dpsBirailSurface52
+    400616: dpsBirailSurface6
+    400618: dpsBirailSurface61
+    400620: dpsBirailSurface62
+    400622: dpsBirailSurface64
+    400624: dpsBirailSurface66
+    400626: dpsBirailSurface67
+    400628: dpsBirailSurface68
+    400630: dpsBirailSurface69
+    400632: dpsBirailSurface7
+    400634: dpsBirailSurface79
+    400636: dpsBirailSurface8
+    400638: dpsBirailSurface83
+    400640: dpsBirailSurface84
+    400642: dpsBirailSurface85
+    400644: dpsBirailSurface87
+    400646: dpsBirailSurface88
+    400648: dpsBirailSurface89
+    400650: dpsBirailSurface9
+    400652: dpsBirailSurface90
+    400654: dpsBirailSurface92
+    400656: dpsBirailSurface93
+    400658: dpsBirailSurface94
+    400660: dpsBirailSurface96
+    400662: dpsBirailSurface97
+    400664: dpsBirailSurface98
+    400666: dpsBirailSurface99
+    400668: extrudedSurface8
+    400670: frontnurbsCube1
+    400672: frontnurbsCube1 1
+    400674: frontnurbsCube1 10
+    400676: frontnurbsCube1 11
+    400678: frontnurbsCube1 12
+    400680: frontnurbsCube1 13
+    400682: frontnurbsCube1 14
+    400684: frontnurbsCube1 15
+    400686: frontnurbsCube1 16
+    400688: frontnurbsCube1 17
+    400690: frontnurbsCube1 18
+    400692: frontnurbsCube1 19
+    400694: frontnurbsCube1 2
+    400696: frontnurbsCube1 20
+    400698: frontnurbsCube1 21
+    400700: frontnurbsCube1 22
+    400702: frontnurbsCube1 23
+    400704: frontnurbsCube1 24
+    400706: frontnurbsCube1 25
+    400708: frontnurbsCube1 26
+    400710: frontnurbsCube1 27
+    400712: frontnurbsCube1 28
+    400714: frontnurbsCube1 29
+    400716: frontnurbsCube1 3
+    400718: frontnurbsCube1 4
+    400720: frontnurbsCube1 5
+    400722: frontnurbsCube1 6
+    400724: frontnurbsCube1 7
+    400726: frontnurbsCube1 8
+    400728: frontnurbsCube1 9
+    400730: leftnurbsCube1
+    400732: leftnurbsCube1 1
+    400734: leftnurbsCube1 10
+    400736: leftnurbsCube1 11
+    400738: leftnurbsCube1 12
+    400740: leftnurbsCube1 13
+    400742: leftnurbsCube1 14
+    400744: leftnurbsCube1 15
+    400746: leftnurbsCube1 16
+    400748: leftnurbsCube1 17
+    400750: leftnurbsCube1 18
+    400752: leftnurbsCube1 19
+    400754: leftnurbsCube1 2
+    400756: leftnurbsCube1 20
+    400758: leftnurbsCube1 21
+    400760: leftnurbsCube1 22
+    400762: leftnurbsCube1 23
+    400764: leftnurbsCube1 24
+    400766: leftnurbsCube1 25
+    400768: leftnurbsCube1 26
+    400770: leftnurbsCube1 27
+    400772: leftnurbsCube1 28
+    400774: leftnurbsCube1 29
+    400776: leftnurbsCube1 3
+    400778: leftnurbsCube1 4
+    400780: leftnurbsCube1 5
+    400782: leftnurbsCube1 6
+    400784: leftnurbsCube1 7
+    400786: leftnurbsCube1 8
+    400788: leftnurbsCube1 9
+    400790: loftedSurface10
+    400792: loftedSurface11
+    400794: loftedSurface12
+    400796: loftedSurface13
+    400798: loftedSurface14
+    400800: loftedSurface15
+    400802: loftedSurface16
+    400804: loftedSurface17
+    400806: loftedSurface18
+    400808: loftedSurface19
+    400810: loftedSurface20
+    400812: loftedSurface21
+    400814: loftedSurface22
+    400816: loftedSurface25
+    400818: loftedSurface26
+    400820: loftedSurface27
+    400822: loftedSurface28
+    400824: loftedSurface29
+    400826: loftedSurface30
+    400828: loftedSurface31
+    400830: loftedSurface32
+    400832: loftedSurface33
+    400834: loftedSurface34
+    400836: loftedSurface35
+    400838: loftedSurface36
+    400840: loftedSurface37
+    400842: loftedSurface38
+    400844: loftedSurface39
+    400846: loftedSurface40
+    400848: loftedSurface41
+    400850: loftedSurface42
+    400852: loftedSurface43
+    400854: loftedSurface8
+    400856: loftedSurface9
+    400858: nurbsCircle1
+    400860: nurbsCircle4
+    400862: nurbsCircle5
+    400864: nurbsCube10
+    400866: nurbsCube11
+    400868: nurbsCube12
+    400870: nurbsCube13
+    400872: nurbsCube16
+    400874: nurbsCube17
+    400876: nurbsCube18
+    400878: nurbsCube19
+    400880: nurbsCube2
+    400882: nurbsCube20
+    400884: nurbsCube21
+    400886: nurbsCube22
+    400888: nurbsCube23
+    400890: nurbsCube24
+    400892: nurbsCube25
+    400894: nurbsCube26
+    400896: nurbsCube27
+    400898: nurbsCube28
+    400900: nurbsCube29
+    400902: nurbsCube30
+    400904: nurbsCube31
+    400906: nurbsCube32
+    400908: nurbsCube33
+    400910: nurbsCube34
+    400912: nurbsCube35
+    400914: nurbsCube36
+    400916: nurbsCube37
+    400918: nurbsCube38
+    400920: nurbsCube39
+    400922: nurbsCube40
+    400924: nurbsCube41
+    400926: nurbsCube5
+    400928: nurbsCube7
+    400930: nurbsCube8
+    400932: nurbsSquare1
+    400934: nurbsSquare2
+    400936: revolvedSurface2
+    400938: rightnurbsCube1
+    400940: rightnurbsCube1 1
+    400942: rightnurbsCube1 10
+    400944: rightnurbsCube1 11
+    400946: rightnurbsCube1 12
+    400948: rightnurbsCube1 13
+    400950: rightnurbsCube1 14
+    400952: rightnurbsCube1 15
+    400954: rightnurbsCube1 16
+    400956: rightnurbsCube1 17
+    400958: rightnurbsCube1 18
+    400960: rightnurbsCube1 19
+    400962: rightnurbsCube1 2
+    400964: rightnurbsCube1 20
+    400966: rightnurbsCube1 21
+    400968: rightnurbsCube1 22
+    400970: rightnurbsCube1 23
+    400972: rightnurbsCube1 24
+    400974: rightnurbsCube1 25
+    400976: rightnurbsCube1 26
+    400978: rightnurbsCube1 27
+    400980: rightnurbsCube1 28
+    400982: rightnurbsCube1 29
+    400984: rightnurbsCube1 3
+    400986: rightnurbsCube1 4
+    400988: rightnurbsCube1 5
+    400990: rightnurbsCube1 6
+    400992: rightnurbsCube1 7
+    400994: rightnurbsCube1 8
+    400996: rightnurbsCube1 9
+    400998: rightnurbsCube2
+    401000: rightnurbsCube3
+    401002: rightnurbsCube4
+    401004: rightnurbsCube5
+    401006: side2
+    401008: singleProfileBirailSurface1
+    401010: singleProfileBirailSurface10
+    401012: singleProfileBirailSurface11
+    401014: singleProfileBirailSurface12
+    401016: singleProfileBirailSurface16
+    401018: singleProfileBirailSurface17
+    401020: singleProfileBirailSurface18
+    401022: singleProfileBirailSurface19
+    401024: singleProfileBirailSurface20
+    401026: singleProfileBirailSurface21
+    401028: singleProfileBirailSurface3
+    401030: singleProfileBirailSurface4
+    401032: singleProfileBirailSurface5
+    401034: singleProfileBirailSurface7
+    401036: singleProfileBirailSurface8
+    401038: singleProfileBirailSurface9
+    401040: spotLight2
+    401042: topnurbsCube1
+    401044: topnurbsCube1 1
+    401046: topnurbsCube1 10
+    401048: topnurbsCube1 11
+    401050: topnurbsCube1 12
+    401052: topnurbsCube1 13
+    401054: topnurbsCube1 14
+    401056: topnurbsCube1 15
+    401058: topnurbsCube1 16
+    401060: topnurbsCube1 17
+    401062: topnurbsCube1 18
+    401064: topnurbsCube1 19
+    401066: topnurbsCube1 2
+    401068: topnurbsCube1 20
+    401070: topnurbsCube1 21
+    401072: topnurbsCube1 22
+    401074: topnurbsCube1 23
+    401076: topnurbsCube1 24
+    401078: topnurbsCube1 25
+    401080: topnurbsCube1 26
+    401082: topnurbsCube1 27
+    401084: topnurbsCube1 28
+    401086: topnurbsCube1 29
+    401088: topnurbsCube1 3
+    401090: topnurbsCube1 4
+    401092: topnurbsCube1 5
+    401094: topnurbsCube1 6
+    401096: topnurbsCube1 7
+    401098: topnurbsCube1 8
+    401100: topnurbsCube1 9
+    401102: transform1
+    401104: transform2
+    401106: //RootNode
+    2300000: bevelPolygon1
+    2300002: bevelPolygon10
+    2300004: bevelPolygon11
+    2300006: bevelPolygon12
+    2300008: bevelPolygon13
+    2300010: bevelPolygon14
+    2300012: bevelPolygon15
+    2300014: bevelPolygon16
+    2300016: bevelPolygon17
+    2300018: bevelPolygon18
+    2300020: bevelPolygon19
+    2300022: bevelPolygon20
+    2300024: bevelPolygon21
+    2300026: bevelPolygon22
+    2300028: bevelPolygon23
+    2300030: bevelPolygon24
+    2300032: bevelPolygon25
+    2300034: bevelPolygon26
+    2300036: bevelPolygon28
+    2300038: bevelPolygon29
+    2300040: bevelPolygon3
+    2300042: bevelPolygon5
+    2300044: bevelPolygon7
+    2300046: bevelPolygon8
+    3300000: bevelPolygon1
+    3300002: bevelPolygon10
+    3300004: bevelPolygon11
+    3300006: bevelPolygon12
+    3300008: bevelPolygon13
+    3300010: bevelPolygon14
+    3300012: bevelPolygon15
+    3300014: bevelPolygon16
+    3300016: bevelPolygon17
+    3300018: bevelPolygon18
+    3300020: bevelPolygon19
+    3300022: bevelPolygon20
+    3300024: bevelPolygon21
+    3300026: bevelPolygon22
+    3300028: bevelPolygon23
+    3300030: bevelPolygon24
+    3300032: bevelPolygon25
+    3300034: bevelPolygon26
+    3300036: bevelPolygon28
+    3300038: bevelPolygon29
+    3300040: bevelPolygon3
+    3300042: bevelPolygon5
+    3300044: bevelPolygon7
+    3300046: bevelPolygon8
+    4300000: bevelPolygon1
+    4300002: bevelPolygon3
+    4300004: bevelPolygon5
+    4300006: bevelPolygon7
+    4300008: bevelPolygon8
+    4300010: bevelPolygon10
+    4300012: bevelPolygon11
+    4300014: bevelPolygon12
+    4300016: bevelPolygon13
+    4300018: bevelPolygon14
+    4300020: bevelPolygon15
+    4300022: bevelPolygon16
+    4300024: bevelPolygon17
+    4300026: bevelPolygon18
+    4300028: bevelPolygon19
+    4300030: bevelPolygon20
+    4300032: bevelPolygon21
+    4300034: bevelPolygon22
+    4300036: bevelPolygon23
+    4300038: bevelPolygon24
+    4300040: bevelPolygon25
+    4300042: bevelPolygon26
+    4300044: bevelPolygon28
+    4300046: bevelPolygon29
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

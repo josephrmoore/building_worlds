@@ -1,0 +1,69 @@
+
+    menuItem
+        -label "- dup" 
+        -divider 0
+        -subMenu 0
+        -command "duplicate -rr; scale -r -1 1 1;" 
+        -altModifier 0
+        -optionModifier 0
+        -commandModifier 0
+        -ctrlModifier 0
+        -shiftModifier 0
+        -checkBox 1
+        -optionBox 0
+        -enable 1
+        -data 0
+        -radialPosition "S" 
+        -enableCommandRepeat 1
+        -image "commandButton.xpm" 
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        menuEditorMenuItem1;
+
+    menuItem
+        -label "Birail2" 
+        -divider 0
+        -subMenu 0
+        -command "Birail2;" 
+        -altModifier 0
+        -optionModifier 0
+        -commandModifier 0
+        -ctrlModifier 0
+        -shiftModifier 0
+        -checkBox 1
+        -optionBox 0
+        -enable 1
+        -data 0
+        -radialPosition "SW" 
+        -enableCommandRepeat 1
+        -image "commandButton.xpm" 
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        menuEditorMenuItem5;
+
+    menuItem
+        -label "CV curve" 
+        -divider 0
+        -subMenu 0
+        -command "CVCurveTool;" 
+        -altModifier 0
+        -optionModifier 0
+        -commandModifier 0
+        -ctrlModifier 0
+        -shiftModifier 0
+        -checkBox 1
+        -optionBox 0
+        -enable 1
+        -data 0
+        -radialPosition "NW" 
+        -enableCommandRepeat 1
+        -image "commandButton.xpm" 
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        menuEditorMenuItem3;
+
+setParent -m ..;
+
