@@ -11,7 +11,7 @@ public class ball : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if(transform.position.z>-55){
-			Camera.main.transform.position = new Vector3(-126f, -6f, 400f);
+			Camera.main.transform.position = new Vector3(-126f, 340f, 400f);
 			Camera.main.transform.rotation = new Quaternion(28f, 180f, 0f, Camera.main.transform.rotation.w);
 		}
 	}
