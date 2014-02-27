@@ -11,7 +11,7 @@ public class swing : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		Debug.Log (offset);
+//		Debug.Log (offset);
 		transform.Rotate (new Vector3 (0f, (Mathf.Cos((Time.time))*offset), 0f)*Time.deltaTime*transform.position.z/100);
 	}
 }
