@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ball.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../buildingworlds_week05/Assets/roll.cs">
     <Files>
-      <File FileName="Assets/swing.cs" Line="14" Column="18" />
-      <File FileName="Assets/ball.cs" Line="8" Column="5" />
+      <File FileName="../buildingworlds_week05/Assets/roll.cs" Line="15" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
