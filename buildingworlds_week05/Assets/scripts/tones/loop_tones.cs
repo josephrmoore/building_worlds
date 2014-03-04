@@ -4,6 +4,8 @@ using System.Collections;
 public class loop_tones : MonoBehaviour {
 	public int wheel1, wheel2;
 	GameObject top1, top2;
+	public GameObject[] sounds;
+
 	// Use this for initialization
 	void Start () {
 		wheel1 = 0;
@@ -20,6 +22,11 @@ public class loop_tones : MonoBehaviour {
 		piano.GetComponent<AudioSource>().mute = false;
 
 		Debug.Log (top1.transform.position.x);
+		sounds = GameObject.FindGameObjectsWithTag("sound");
+		
+		foreach (GameObject sound in sounds) {
+			sound.transform.position = Camera.main.transform.position;
+		}
 	}
 
 
@@ -27,58 +34,58 @@ public class loop_tones : MonoBehaviour {
 	void Update () {
 		if(wheel1 == 0){
 			if((top1.transform.rotation.x<0 && top1.transform.rotation.z<0) || (top1.transform.rotation.x>0 && top1.transform.rotation.z>0)){
-				top1.transform.Rotate(Vector3.down);
+				top1.transform.Rotate(Vector3.down*5);
 			} else {
-				top1.transform.Rotate(Vector3.up);
+				top1.transform.Rotate(Vector3.up*5);
 			}
 		}
 		if(wheel1 == 1){
 			if((top1.transform.rotation.z<0.7 &&  top1.transform.rotation.x<-0.7) || (top1.transform.rotation.z<-0.7 &&  top1.transform.rotation.x<0.7)){
-				top1.transform.Rotate(Vector3.up);
+				top1.transform.Rotate(Vector3.up*5);
 			} else {
-				top1.transform.Rotate(Vector3.down);
+				top1.transform.Rotate(Vector3.down*5);
 			}
 		}
 		if(wheel1 == 2){
 			if(top1.transform.rotation.z<1.0 && top1.transform.rotation.x<0.0){
-				top1.transform.Rotate(Vector3.up);
+				top1.transform.Rotate(Vector3.up*5);
 			} else {
-				top1.transform.Rotate(Vector3.down);
+				top1.transform.Rotate(Vector3.down*5);
 			}
 		}
 		if(wheel1 == 3){
 			if((top1.transform.rotation.z>0.7 && top1.transform.rotation.x<0.7) || (top1.transform.rotation.z<-0.7 && top1.transform.rotation.x>-0.7)){
-				top1.transform.Rotate(Vector3.down);
+				top1.transform.Rotate(Vector3.down*5);
 			} else {
-				top1.transform.Rotate(Vector3.up);
+				top1.transform.Rotate(Vector3.up*5);
 			}
 		}
 		if(wheel2 == 0){
 			if((top2.transform.rotation.x<0 && top2.transform.rotation.z<0) || (top2.transform.rotation.x>0 && top2.transform.rotation.z>0)){
-				top2.transform.Rotate(Vector3.down);
+				top2.transform.Rotate(Vector3.down*5);
 			} else {
-				top2.transform.Rotate(Vector3.up);
+				top2.transform.Rotate(Vector3.up*5);
 			}
 		}
 		if(wheel2 == 1){
 			if((top2.transform.rotation.z<0.7 &&  top2.transform.rotation.x<-0.7) || (top2.transform.rotation.z<-0.7 &&  top2.transform.rotation.x<0.7)){
-				top2.transform.Rotate(Vector3.up);
+				top2.transform.Rotate(Vector3.up*5);
 			} else {
-				top2.transform.Rotate(Vector3.down);
+				top2.transform.Rotate(Vector3.down*5);
 			}
 		}
 		if(wheel2 == 2){
 			if(top2.transform.rotation.z<1.0 && top2.transform.rotation.x<0.0){
-				top2.transform.Rotate(Vector3.up);
+				top2.transform.Rotate(Vector3.up*5);
 			} else {
-				top2.transform.Rotate(Vector3.down);
+				top2.transform.Rotate(Vector3.down*5);
 			}
 		}
 		if(wheel2 == 3){
 			if((top2.transform.rotation.z>0.7 && top2.transform.rotation.x<0.7) || (top2.transform.rotation.z<-0.7 && top2.transform.rotation.x>-0.7)){
-				top2.transform.Rotate(Vector3.down);
+				top2.transform.Rotate(Vector3.down*5);
 			} else {
-				top2.transform.Rotate(Vector3.up);
+				top2.transform.Rotate(Vector3.up*5);
 			}
 		}
 		if (Input.GetKey (KeyCode.Q)) {
