@@ -13,11 +13,16 @@ public class bass4 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if(Application.loadedLevelName == "tones"){
-			w1 = Camera.main.GetComponent<loop_tones>().wheel1;
-			w2 = Camera.main.GetComponent<loop_tones>().wheel2;
-			if (w1 == 0 && w2 == 3) {
+//			w1 = Camera.main.GetComponent<loop_tones>().wheel1;
+//			w2 = Camera.main.GetComponent<loop_tones>().wheel2;
+//			if (w1 == 0 && w2 == 3) {
+//				GetComponent<AudioSource> ().mute = false;
+//			} else if((w1 == 0 && w2 == 1) || (w1 == 0 && w2 == 2) || (w1 == 0 && w2 == 0)){
+//				GetComponent<AudioSource> ().mute = true;
+//			}
+			if (Camera.main.GetComponent<loop_tones>().wheel1 == 4) {
 				GetComponent<AudioSource> ().mute = false;
-			} else if((w1 == 0 && w2 == 1) || (w1 == 0 && w2 == 2) || (w1 == 0 && w2 == 0)){
+			} else {
 				GetComponent<AudioSource> ().mute = true;
 			}
 		}
