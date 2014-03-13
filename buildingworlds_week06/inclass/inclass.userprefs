@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Thesis/midterm/midterm/Assets/NetworkManagerScript.cs">
+    <Files>
+      <File FileName="../../../../Thesis/midterm/midterm/Assets/NetworkManagerScript.cs" Line="7" Column="9" />
+      <File FileName="../../../../Thesis/midterm/midterm/Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs" Line="58" Column="3" />
+      <File FileName="../../../../Thesis/midterm/midterm/Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="9" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
