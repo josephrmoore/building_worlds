@@ -118,6 +118,37 @@ public class RatStages : MonoBehaviour {
 			Texture2D img = Resources.Load(path) as Texture2D;
 			GameObject.Find("mouse_meter_0").GetComponent<GUITexture>().texture = img;
 		}
+		if(current_step == 1){
+			GameObject first = GameObject.Find ("menu_1");
+			GUITiming w = first.GetComponent <GUITiming> ();
+			w.active = true;
+		}
+
+		if(current_step == 3){
+			GameObject first = GameObject.Find ("menu_2");
+			GUITiming w = first.GetComponent <GUITiming> ();
+			w.active = true;
+		}
+
+		if(current_step == 5){
+			GameObject first = GameObject.Find ("menu_3");
+			GUITiming w = first.GetComponent <GUITiming> ();
+			w.active = true;
+		}
+
+		if(current_step == 7){
+			GameObject first = GameObject.Find ("menu_4");
+			GUITiming w = first.GetComponent <GUITiming> ();
+			w.active = true;
+		}
+
+		if(current_step == 9){
+			GameObject first = GameObject.Find ("menu_5");
+			GUITiming w = first.GetComponent <GUITiming> ();
+			w.active = true;
+		}
+
+
 		if(won && !running){
 			walk.Pause();
 			streak.Play();

@@ -5,6 +5,7 @@ public class GUITiming : MonoBehaviour {
 	float alpha = 0.0f;
 	bool done = false;
 	float t = 0f;
+	public float duration;
 
 	public bool active;
 	bool activated = false;
@@ -21,7 +22,7 @@ public class GUITiming : MonoBehaviour {
 			t = Time.realtimeSinceStartup;
 		}
 		if(active && !done){
-			if(Time.realtimeSinceStartup>(t+7.5f)){
+			if(Time.realtimeSinceStartup>(t+duration)){
 				fadeOut();
 			} else {
 				fadeIn();
